@@ -1,0 +1,5 @@
+@media screen and (max-width: 577px) {
+  .icon {
+    display: none;
+  }
+}
